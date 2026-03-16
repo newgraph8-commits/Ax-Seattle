@@ -18,7 +18,7 @@ export default function UnmatchedGlobalPresensePage() {
             className="container mx-auto"
             style={{ paddingLeft: "clamp(1rem, 4vw, 3rem)", paddingRight: "clamp(1rem, 4vw, 3rem)" }}
           >
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary mb-8">Unmatched Global Presense</h1>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary mb-8">Unmatched Global Presence</h1>
             <div className="space-y-6 text-lg text-muted-foreground">
               <p className="leading-relaxed">
                 Surpassing the limits of traditional senior-leadership evaluation, Ax Seattle is equipped to execute
