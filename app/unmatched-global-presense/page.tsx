@@ -7,7 +7,7 @@ export const metadata = {
   description: "Surpassing the limits of traditional senior-leadership evaluation",
 }
 
-export default function UnmatchedGlobalPresensePage() {
+export default function UnmatchedGlobalPresencePage() {
   return (
     <>
       <Header />
