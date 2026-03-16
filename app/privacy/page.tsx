@@ -3,8 +3,8 @@ import { Footer } from "@/components/layout/footer"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Ax South",
-  description: "Privacy Policy for Ax South executive search services.",
+  title: "Privacy Policy | Ax Seattle",
+  description: "Privacy Policy for Ax Seattle executive search services.",
 }
 
 export default function PrivacyPolicyPage() {
@@ -24,7 +24,7 @@ export default function PrivacyPolicyPage() {
             <div className="prose prose-lg max-w-none space-y-8 text-gray-700 leading-relaxed">
               <section>
                 <p className="text-lg">
-                  Ax South ("we," "our," or "us") is committed to protecting your personal information and maintaining
+                  Ax Seattle ("we," "our," or "us") is committed to protecting your personal information and maintaining
                   transparency regarding how your data is collected, used, and safeguarded. This Privacy Policy explains
                   how we handle information when you interact with our website, communication systems, and SMS
                   notification services.
@@ -89,8 +89,8 @@ export default function PrivacyPolicyPage() {
                 <h3 className="text-xl font-semibold text-gray-900 mb-3 mt-6">3.2 Assistance</h3>
                 <p>
                   For support related to SMS messaging, contact us at:{" "}
-                  <a href="mailto:info@axsouth.com" className="text-[#FF2B2B] hover:underline">
-                    info@axsouth.com
+                  <a href="mailto:info@axseattle.com" className="text-[#FF2B2B] hover:underline">
+                    info@axseattle.com
                   </a>
                 </p>
 
@@ -131,8 +131,8 @@ export default function PrivacyPolicyPage() {
                 </ul>
                 <p className="mt-4">
                   To make a request, contact us at:{" "}
-                  <a href="mailto:info@axsouth.com" className="text-[#FF2B2B] hover:underline">
-                    info@axsouth.com
+                  <a href="mailto:info@axseattle.com" className="text-[#FF2B2B] hover:underline">
+                    info@axseattle.com
                   </a>
                 </p>
               </section>
@@ -148,7 +148,7 @@ export default function PrivacyPolicyPage() {
               <section className="pt-4">
                 <h2 className="text-2xl font-bold text-primary mb-4">8. Children's Privacy</h2>
                 <p>
-                  Ax South does not knowingly collect personal information from individuals under the age of 16. Our
+                  Ax Seattle does not knowingly collect personal information from individuals under the age of 16. Our
                   services are intended for adults and professional users.
                 </p>
               </section>
@@ -165,11 +165,11 @@ export default function PrivacyPolicyPage() {
                 <h2 className="text-2xl font-bold text-primary mb-4">10. Contact Information</h2>
                 <p>For privacy inquiries, please contact:</p>
                 <div className="mt-4 space-y-2">
-                  <p className="font-semibold">Ax South Privacy Office</p>
+                  <p className="font-semibold">Ax Seattle Privacy Office</p>
                   <p>
                     Email:{" "}
-                    <a href="mailto:info@axsouth.com" className="text-[#FF2B2B] hover:underline">
-                      info@axsouth.com
+                    <a href="mailto:info@axseattle.com" className="text-[#FF2B2B] hover:underline">
+                      info@axseattle.com
                     </a>
                   </p>
                 </div>
