@@ -29,7 +29,7 @@ export function BrandBanner() {
 
         {/* Quote Text */}
         <p className="text-white/90 font-serif text-xl md:text-2xl w-full leading-relaxed italic tracking-wide text-justify [text-align-last:center]">
-          Ax South prioritizes understanding our clients' goals, taking the time to grasp their ideal outcome for every
+          Ax Seattle prioritizes understanding our clients' goals, taking the time to grasp their ideal outcome for every
           critical position.
         </p>
       </div>

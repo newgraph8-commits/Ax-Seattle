@@ -3,8 +3,8 @@ import { Footer } from "@/components/layout/footer"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Terms of Service | Ax South",
-  description: "Terms of Service for Ax South executive search services.",
+  title: "Terms of Service | Ax Seattle",
+  description: "Terms of Service for Ax Seattle executive search services.",
 }
 
 export default function TermsOfServicePage() {
@@ -23,7 +23,7 @@ export default function TermsOfServicePage() {
             <div className="prose prose-lg max-w-none space-y-8 text-gray-700 leading-relaxed">
               <section>
                 <p className="text-lg">
-                  Ax South has rapidly positioned itself as a leading force in executive search, delivering focused
+                  Ax Seattle has rapidly positioned itself as a leading force in executive search, delivering focused
                   service and exceptional opportunities to an elite portfolio of clients.
                 </p>
               </section>
