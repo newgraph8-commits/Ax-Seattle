@@ -91,7 +91,7 @@ export default function HealthcarePage() {
                   </h3>
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    The growing importance of travel nursing across the healthcare sector is reflected in Ax South's
+                    The growing importance of travel nursing across the healthcare sector is reflected in Ax Seattle's
                     ability to mobilize a nationwide network of seasoned clinicians. Our nurses provide dependable
                     support during critical staffing gaps—including parental or personal leave, unexpected injuries, and
                     seasonal surges—and many are able to coordinate flexible scheduling directly with partnering
@@ -104,14 +104,14 @@ export default function HealthcarePage() {
                   </h3>
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    Ax South equips healthcare organizations to remain responsive and well-positioned amid ongoing
+                    Ax Seattle equips healthcare organizations to remain responsive and well-positioned amid ongoing
                     industry shifts. Our network of medical specialists and healthcare consultants delivers guidance
                     grounded in precision, discretion, and strategic insight.
                   </p>
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     For instance, hospitals facing variable patient volumes—particularly those in rural and underserved
-                    areas—benefit significantly from Ax South's travel nursing resources. This capability, combined with
+                    areas—benefit significantly from Ax Seattle's travel nursing resources. This capability, combined with
                     our wider healthcare expertise, supports organizations in sustaining consistent staffing levels. As
                     a result, clients are better equipped to adapt to evolving demands and maintain operational
                     readiness.

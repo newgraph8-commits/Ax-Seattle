@@ -2,7 +2,7 @@ import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 
 export const metadata = {
-  title: "Marketplace Strategy - Ax South",
+  title: "Marketplace Strategy - Ax Seattle",
   description: "Strategic marketplace positioning and client value delivery",
 }
 
@@ -37,7 +37,7 @@ export default function MarketplaceStrategyPage() {
             <div className="space-y-6 text-lg text-muted-foreground max-w-5xl">
               <p className="leading-relaxed">
                 Exceptional service, flexible pricing models, and direct access to influential global leaders form the
-                foundation of Ax South's client partnerships.
+                foundation of Ax Seattle's client partnerships.
               </p>
               <p className="leading-relaxed">
                 The advancement and refinement of every client's potential stem from the integration of these strengths

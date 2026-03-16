@@ -37,7 +37,7 @@ export default function ExecutivePlacementServicesPage() {
             </h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              With deep expertise and resources, Ax South consistently identifies premier talent for executive
+              With deep expertise and resources, Ax Seattle consistently identifies premier talent for executive
               appointments on corporate and nonprofit boards.
             </p>
 
@@ -81,7 +81,7 @@ export default function ExecutivePlacementServicesPage() {
                 {/* Content Text */}
                 <div className="prose prose-lg max-w-none">
                   <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                    Ax South's reputation for securing highly qualified board directors is built on a global track
+                    Ax Seattle's reputation for securing highly qualified board directors is built on a global track
                     record that few firms can rival. Our client portfolio spans public and private companies, nonprofit
                     organizations, family-owned enterprises, and private-equity-backed groups—creating extensive
                     opportunities for meaningful, strategic placements.
@@ -96,22 +96,22 @@ export default function ExecutivePlacementServicesPage() {
 
                   <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                     Whether an organization requires its first board director or a high-potential leader prepared to
-                    assume broader responsibilities within a larger governance structure, Ax South provides a clear
+                    assume broader responsibilities within a larger governance structure, Ax Seattle provides a clear
                     pathway for establishing strong, future-ready leadership. This is achieved through a time-tested
                     framework designed to evolve in step with the personnel needs of emerging enterprises.
                   </p>
 
-                  <h2 className="text-2xl font-bold text-primary mt-12 mb-6">The Ax South Pledge</h2>
+                  <h2 className="text-2xl font-bold text-primary mt-12 mb-6">The Ax Seattle Pledge</h2>
 
                   <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                     Our clients draw on decades of collective experience in board leadership, executive search, and
                     management consulting—expertise that consistently elevates their strategic position and operational
-                    impact. This depth of knowledge is strengthened by Ax South's forward-thinking board members, whose
+                    impact. This depth of knowledge is strengthened by Ax Seattle's forward-thinking board members, whose
                     guidance and resources enable our team to lead effectively across industries.
                   </p>
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    Ax South's continued emphasis on measurable results and strengthened market positioning remains
+                    Ax Seattle's continued emphasis on measurable results and strengthened market positioning remains
                     central to the value we provide. Although the marketplace continues to evolve, our mission does
                     not—to ensure every client is positioned to achieve their full potential in the most positive and
                     impactful manner.
