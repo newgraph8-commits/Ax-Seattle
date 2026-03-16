@@ -17,7 +17,7 @@ export default function TargetedExecutiveSearchPage() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary mb-6">Targeted Executive Search</h1>
 
             <p className="text-xl text-muted-foreground leading-relaxed mb-12">
-              Ax South manages every direct hire with exceptional discretion and professionalism, supported by a global
+              Ax Seattle manages every direct hire with exceptional discretion and professionalism, supported by a global
               network of candidates skilled in communication strategy, market analytics, and technology-driven
               solutions.
             </p>
@@ -37,7 +37,7 @@ export default function TargetedExecutiveSearchPage() {
                 </p>
 
                 <p className="text-lg text-muted-foreground leading-relaxed">
-                  Few firms match Ax South's ability to design precise, tailored, data-driven solutions for
+                  Few firms match Ax Seattle's ability to design precise, tailored, data-driven solutions for
                   mission-critical executive hires. This self-sustaining recruiting framework has become a defining
                   advantage for enterprising companies seeking exceptional leadership.
                 </p>

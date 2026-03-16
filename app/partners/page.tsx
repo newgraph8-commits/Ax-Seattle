@@ -3,7 +3,7 @@ import { Footer } from "@/components/layout/footer"
 import Image from "next/image"
 
 export const metadata = {
-  title: "Partners - Ax South",
+  title: "Partners - Ax Seattle",
   description: "Our trusted partners in executive recruitment and talent solutions",
 }
 
@@ -75,12 +75,12 @@ export default function PartnersPage() {
             <div className="max-w-4xl">
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                 Case studies featuring real-world examples have demonstrated the effectiveness, speed, adaptability, and
-                overall success of Ax South's system.
+                overall success of Ax Seattle's system.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                To integrate Ax South's 12 AC system into your Human Resources framework or to enroll in the Ax South
-                system application, please contact an Ax South representative at:{" "}
-                <a href="mailto:info@axsouth.com" className="text-primary hover:underline font-semibold">
+                To integrate Ax Seattle's 12 AC system into your Human Resources framework or to enroll in the Ax Seattle
+                system application, please contact an Ax Seattle representative at:{" "}
+                <a href="mailto:info@axseattle.com" className="text-primary hover:underline font-semibold">
                   info@axsouth.com
                 </a>
               </p>
