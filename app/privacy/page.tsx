@@ -168,8 +168,8 @@ export default function PrivacyPolicyPage() {
                   <p className="font-semibold">Ax Seattle Privacy Office</p>
                   <p>
                     Email:{" "}
-                    <a href="mailto:info@axsouth.com" className="text-[#FF2B2B] hover:underline">
-                      info@axsouth.com
+                    <a href="mailto:info@axseattle.com" className="text-[#FF2B2B] hover:underline">
+                      info@axseattle.com
                     </a>
                   </p>
                 </div>

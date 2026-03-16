@@ -79,7 +79,7 @@ export default function UnmatchedGlobalPresensePage() {
                     shortcuts. Every step of the process serves a critical purpose.
                   </p>
                   <p className="text-muted-foreground leading-relaxed">
-                    For example, in our growing education division, Ax South maintains trusted relationships with school
+                    For example, in our growing education division, Ax Seattle maintains trusted relationships with school
                     presidents, deans, vice chairs, chancellors, athletic directors, and other key administrators
                     worldwide. In most cases, we can connect a qualified candidate directly with top-level
                     decision-makers with just a single call.

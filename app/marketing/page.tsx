@@ -180,7 +180,7 @@ export default function MarketingPage() {
                     <h2 className="text-3xl font-bold text-primary mb-4">Google Pay-Per-Click</h2>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">
                       When Facebook advertising is integrated with paid search, overall performance increases
-                      substantially. This multi-channel dynamic has enabled Ax South clients to achieve stronger click
+                      substantially. This multi-channel dynamic has enabled Ax Seattle clients to achieve stronger click
                       through rate (CTR) results and expanded audience reach.
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">

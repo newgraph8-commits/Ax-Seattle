@@ -81,7 +81,7 @@ export default function PartnersPage() {
                 To integrate Ax Seattle's 12 AC system into your Human Resources framework or to enroll in the Ax Seattle
                 system application, please contact an Ax Seattle representative at:{" "}
                 <a href="mailto:info@axseattle.com" className="text-primary hover:underline font-semibold">
-                  info@axsouth.com
+                  info@axseattle.com
                 </a>
               </p>
             </div>

@@ -125,7 +125,7 @@ export default function LawPage() {
                     <p className="text-lg text-muted-foreground leading-relaxed mb-4 w-full">
                       As compensation expectations, geographic preferences, lifestyle priorities, specialization trends,
                       and long-term stability continue to reshape the in-house legal landscape, attorneys at all levels
-                      turn to Ax South when preparing for a strategic career move. Whether they are senior partners
+                      turn to Ax Seattle when preparing for a strategic career move. Whether they are senior partners
                       refining their leadership trajectory, mid-level associates exploring new areas of specialization,
                       or private practitioners seeking to move into a primary in-house counsel role.
                     </p>
